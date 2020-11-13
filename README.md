@@ -6,4 +6,7 @@ Le joueur parcours un univers médiéval fantastique où il est amené à faire 
 
 Le jeu est toujours en phase de développement même si les mécaniques principales sont fonctionnelles.
 
+Lancez le jeu avec "main.py"
+Observez les dynamiques dans "event.py"
+
 Enjoy !
